@@ -1,4 +1,0 @@
-[25-Mar-2019 15:24:51 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/nemanja11/public_html/database/loginClass.php on line 10
-[25-Mar-2019 15:24:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/nemanja11/public_html/database/loginClass.php on line 10
-[25-Mar-2019 15:24:54 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/nemanja11/public_html/database/loginClass.php on line 10
-[25-Mar-2019 15:24:55 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/nemanja11/public_html/database/loginClass.php on line 10
